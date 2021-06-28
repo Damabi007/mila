@@ -1,2 +1,0 @@
-# mila
-A Virtual Assistant
